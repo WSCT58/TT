@@ -1,0 +1,17 @@
+{
+    cmdlines = {
+        "xmake run summary",
+        "xmake run learn 0",
+        [[xmake l c:\Users\曾圳烽\.vscode\extensions\tboox.xmake-vscode-2.4.0\assets\explorer.lua]],
+        [[xmake l c:\Users\曾圳烽\.vscode\extensions\tboox.xmake-vscode-2.4.0\assets\config.lua]],
+        "xmake run learn 0",
+        "xmake ",
+        [[xmake lua "C:\\\\Program Files\\\\xmake\\\\modules\\\\private\\\\utils\\\\statistics.lua"]],
+        [[xmake lua "C:\\\\Program Files\\\\xmake\\\\actions\\\\build\\\\cleaner.lua"]],
+        "xmake run summary",
+        "xmake run learn 0",
+        [[xmake l c:\Users\曾圳烽\.vscode\extensions\tboox.xmake-vscode-2.4.0\assets\explorer.lua]],
+        [[xmake l c:\Users\曾圳烽\.vscode\extensions\tboox.xmake-vscode-2.4.0\assets\config.lua]],
+        "xmake run learn 30"
+    }
+}
